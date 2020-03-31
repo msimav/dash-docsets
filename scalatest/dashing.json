@@ -1,0 +1,10 @@
+{
+    "name": "ScalaTest",
+    "package":"scalatest",
+    "index":"www.scalatest.org/user_guide.html",
+    "externalURL":"https://scalikejdbc.org/",
+    "selectors": {
+        "div#body h1": "Guide",
+        "div#body h2": "Section"
+    }
+}

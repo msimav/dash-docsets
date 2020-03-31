@@ -1,0 +1,11 @@
+{
+    "name": "ScalikeJDBC",
+    "package":"scalike",
+    "index":"index.html",
+    "icon32x32":"scalikejdbc.org/images/logo.png",
+    "externalURL":"https://scalikejdbc.org/",
+    "selectors": {
+        "div.content h2": "Guide",
+        "div.content h3": "Section"
+    }
+}
